@@ -84,7 +84,7 @@ header {
 /* قسم الهيرو */
 .hero-section {
     height: 90vh;
-    background: linear-gradient(to bottom, rgb(0 0 0 / 30%), rgb(0 0 0 / 81%)), url(https://github.com/yazansh46-tech/WEBSITE/blob/main/1.png);
+    background: linear-gradient(to bottom, rgb(0 0 0 / 30%), rgb(0 0 0 / 81%)), url(https://raw.githubusercontent.com/yazansh46-tech/WEBSITE/refs/heads/main/1.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -172,7 +172,7 @@ background:#efac00 ;
 .services-section {
     padding: 0px 0;
     /* وضع صورة تعبر عن الطيران أو الجليد */
-    background: linear-gradient(to bottom, rgb(0 0 0 / 60%), rgb(0 0 0 / 50%)), url(https://github.com/yazansh46-tech/WEBSITE/blob/main/LV3.png);
+    background: linear-gradient(to bottom, rgb(0 0 0 / 60%), rgb(0 0 0 / 50%)), url(https://raw.githubusercontent.com/yazansh46-tech/WEBSITE/refs/heads/main/LV3.png);
     background-size: cover;
     background-position: center;
     color: var(--white-color);
@@ -253,7 +253,7 @@ color: white;
 .why-us-section {
     padding: 200px 0;
     /* وضع صورة تعبر عن الطيران أو الجليد */
-    background: linear-gradient(to bottom, rgb(0 0 0 / 82%), rgb(0 0 0 / 76%)), url(https://github.com/yazansh46-tech/WEBSITE/blob/main/lv4.png) center / cover ;
+    background: linear-gradient(to bottom, rgb(0 0 0 / 82%), rgb(0 0 0 / 76%)), url(https://raw.githubusercontent.com/yazansh46-tech/WEBSITE/refs/heads/main/lv4.png) center / cover ;
     background-size: cover;
     background-position: center;
     color: var(--white-color);
@@ -300,7 +300,7 @@ color: white;
 /* About us section  */
 .about-section {
 padding: 25px 0;
-background:linear-gradient(to bottom, rgb(0 0 0 / 38%), rgb(0 0 0 / 55%)), url(https://github.com/yazansh46-tech/WEBSITE/blob/main/lv2.png);
+background:linear-gradient(to bottom, rgb(0 0 0 / 38%), rgb(0 0 0 / 55%)), url(https://raw.githubusercontent.com/yazansh46-tech/WEBSITE/refs/heads/main/lv2.png);
 
 }
 
